@@ -1,0 +1,8 @@
+1. Project Band Name generator
+2. Tip Calculator
+3. Treasure Island
+4. Rock Paper Scissors
+5. Password generator
+6. Escaping the Maze (Reeborg)
+7. Hangman
+8. Caesar Cipher
