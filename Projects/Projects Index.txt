@@ -6,3 +6,7 @@
 6. Escaping the Maze (Reeborg)
 7. Hangman
 8. Caesar Cipher
+9. Highest bidder
+10. peculiar calculator
+11. Black jack
+12. Guess the number
