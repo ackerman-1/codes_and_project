@@ -1,0 +1,24 @@
+-two pointers
+-fast and slow pointers
+-sliding window
+-merge intervals
+-In-place Reversal of a Linked List
+-Two Heaps
+-k way merge
+-Top K Elements
+-Modified Binary Search
+-subsets
+-greedy
+-backtracking
+-dynamic programming
+-cyclic sort
+-topological sort
+-stacks
+-tree depth first search
+-tree breadth first search
+-trie
+-hash maps
+-knowing what to track
+-union find
+-custom data structure
+-bitwise manipulation
