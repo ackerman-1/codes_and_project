@@ -1,0 +1,1 @@
+the pointers always take the same amount of memory, no matter the type of data structure it is pointing to

@@ -9,6 +9,8 @@ ll power(ll k)
     if (k % 2 == 0)
     {
         ll ans = power(k / 2);
+        ll ans2 = power(k - 1);
+        ll temp = power % k;
         return (ans % MOD) * (ans % MOD);
     }
     else
