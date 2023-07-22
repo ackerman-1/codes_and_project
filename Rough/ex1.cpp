@@ -89,6 +89,5 @@ int main()
 
     cout << "The sum of the two linked lists is: ";
     printList(result);
-
     return 0;
 }
